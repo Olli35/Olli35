@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Первый коммит"
+git remote add origin https://github.com/Olli35/Olli35.github.io.git
+git push -u origin master
